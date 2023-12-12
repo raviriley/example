@@ -5,6 +5,7 @@ this repo is the result of a live demo I did where I showed 20+ new devs how to 
 - Used https://randomuser.me/ as the example API to fetch from.
 - Used [shadcn ui components](https://ui.shadcn.com/)
 - completed in ~7 minutes
+- deployed to Vercel: https://data-fetching-example.vercel.app
 
 -----
 

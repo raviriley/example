@@ -1,3 +1,13 @@
+# Blockchain at Berkeley Internal Developer Education - Data Fetching Example
+
+this repo is the result of a live demo I did where I showed 20+ new devs how to whip up a data fetching and rendering UI from 0-1 in <10 min. 
+
+- Used https://randomuser.me/ as the example API to fetch from.
+- Used [shadcn ui components](https://ui.shadcn.com/)
+- completed in ~7 minutes
+
+-----
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
